@@ -62,7 +62,7 @@ delay.h, gpio.h, stdulils.h
 
  
 # PROGRAM:
-```C
+```
 #include <lpc17xx.h>
 #include "delay.h"       //User defined library which contains the delay routines
 #include "gpio.h"
