@@ -54,13 +54,12 @@ delay.h, gpio.h, stdulils.h
  
 # PIN DIAGRAM :
 
- <img width="897" height="587" alt="image" src="https://github.com/user-attachments/assets/d42a4929-5250-48c4-b229-8b2c2923eb80" />
+<img width="767" height="416" alt="image" src="https://github.com/user-attachments/assets/1afc7473-7913-488b-a649-7b4a6a9db4cc" />
 
 # CIRCUIT DIAGRAM:
 
- <img width="866" height="500" alt="image" src="https://github.com/user-attachments/assets/07c659eb-737a-48c5-8f43-50d38170a5fe" />
+<img width="715" height="366" alt="image" src="https://github.com/user-attachments/assets/512e671c-7d7e-4e65-8cef-cd005e526bcf" />
 
- 
 # PROGRAM:
 ```C
 #include <lpc17xx.h>
